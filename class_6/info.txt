@@ -1,7 +1,3 @@
-Материал:
-
-https://youtu.be/875I2sE3SRA
-
 Практика:
 
 При помощи MLPClassifier решить задачу
