@@ -1,5 +1,3 @@
-Материал: https://youtu.be/4CsRUojAqJQ
-
 Задание:
 
 1) Установить OpenCV
