@@ -1,0 +1,15 @@
+Материал: https://youtu.be/4CsRUojAqJQ
+
+Задание:
+
+1) Установить OpenCV
+
+2) Написать конвертор изображений
+
+3*)Написать дедубликатор изображений
+
+https://raw.githubusercontent.com/daniel-kurushin/modern_data_course/main/recognize.py
+
+https://docs.python.org/3/library/glob.html
+
+https://docs.opencv.org/4.x/d3/df2/tutorial_py_basic_ops.html
